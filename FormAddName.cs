@@ -35,7 +35,6 @@ namespace part_10
 				lstPendingAdd.Items.Add(entry);
 			}
 			txtName.Text = "";
-
 		}
 
 		private void FormAddName_Load(object sender, EventArgs e)
